@@ -1,0 +1,12 @@
+.dockerignore
+.git
+.github
+.gitignore
+check-version.py
+ci-matrix.yaml
+Dockerfile
+hermes-agent_version
+LICENSE
+README.md
+README.template
+update-ci.py

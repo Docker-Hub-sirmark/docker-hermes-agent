@@ -1,0 +1,18 @@
+# %%PROJECT_NAME%% Docker image
+
+Build %%PROJECT_NAME%% Docker image
+
+From [%%PROJECT_NAME%%](https://github.com/%%REPO_NAME%%) project
+
+## Supported tags and respective `Dockerfile` links
+
+%%TAGS%%
+## Docker Pull Command
+
+```console
+docker pull %%DOCKER_REPO%%:%%TAG%%
+```
+
+## %%PROJECT_NAME%% Setup
+
+Read [%%PROJECT_NAME%% Docs](%%DOCS_URL%%)
