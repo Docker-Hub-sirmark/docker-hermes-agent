@@ -6,7 +6,7 @@ From [Hermes Agent](https://github.com/NousResearch/hermes-agent) project
 
 ## Supported tags and respective `Dockerfile` links
 
- - [`latest`,`2026.7.7.2`,`2026.7.7.2-trixie`,`2026.7.7.2-trixie13.4`,`trixie13.4`,`trixie`](https://github.com/NousResearch/hermes-agent/blob/main/Dockerfile)
+ - [`latest`,`2026.7.20`,`2026.7.20-trixie`,`2026.7.20-trixie13.4`,`trixie13.4`,`trixie`](https://github.com/NousResearch/hermes-agent/blob/main/Dockerfile)
 
 ## Docker Pull Command
 
