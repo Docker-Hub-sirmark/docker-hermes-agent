@@ -1,16 +1,16 @@
 #MATRIX
-- name: hermes-agent-v0.22.4
+- name: hermes-agent-v0.22.5
   repo_owner: NousResearch
   repo_name: hermes-agent
-  version: v0.22.4
+  version: v0.22.5
   context: ./hermes-agent
   platforms: linux/amd64,linux/arm64
   docker-repo: sirmark/hermes-agent
   tags: |
     latest
-    0.22.4
-    0.22.4-trixie
-    0.22.4-trixie13.4
+    0.22.5
+    0.22.5-trixie
+    0.22.5-trixie13.4
     trixie13.4
     trixie
 #MATRIX
